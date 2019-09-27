@@ -1,4 +1,4 @@
 s1 = "Homework"
-print(".", s1.center(100, " "), ".")
+print(".", s1.center(100), ".")
 
 
