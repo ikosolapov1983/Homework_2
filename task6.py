@@ -8,4 +8,4 @@ if b != c:
     count += 1
 if c != a:
     count += 1
-print(count)
+print("Количество совпадений: ", count)
